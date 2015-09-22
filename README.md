@@ -4,6 +4,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **Instructor:** Vadim Bichutskiy
 
+### Course Outline (tentative, subject to change)
 Tuesday | Thursday 
 --- | ---
 9/22: Introduction to Data Science | 9/24: Command Line and Version Control
