@@ -34,3 +34,19 @@ Tuesday | Thursday
 ### Submission Forms
 * [Feedback form](http://bit.ly/1FrY6A1)
 * Homework and project submissions (TBA)
+
+-----
+
+### Class 1: Introduction to Data Science
+* Welcome from General Assembly staff
+* Course overview ([slides](slides/01_course_overview.pdf))
+* Introduction to data science ([slides](slides/01_intro_to_data_science.pdf))
+* Types of data ([slides](slides/01_types_of_data.pdf))
+* Data science tools ([slides](slides/DataScienceTools.pdf))
+* Wrap up: Slack tour, feedback form
+
+**Resources:**
+* For a useful look at the different types of data scientists, read [Analyzing the Analyzers](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf) (32 pages).
+* For some thoughts on what it's like to be a data scientist, read these short posts from [Win-Vector](http://www.win-vector.com/blog/2012/09/on-being-a-data-scientist/) and [Datascope Analytics](http://datascopeanalytics.com/what-we-think/2014/07/31/six-qualities-of-a-great-data-scientist).
+* Quora has a [data science topic FAQ](https://www.quora.com/Data-Science) with lots of interesting Q&A.
+* Keep up with local data-related events through the Data Community DC [event calendar](http://www.datacommunitydc.org/calendar) or [weekly newsletter](http://www.datacommunitydc.org/newsletter).
