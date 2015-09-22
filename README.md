@@ -2,8 +2,7 @@
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/washington-dc/) in Washington, DC (9/22/15 - 12/8/15).
 
-**Instructor:** [Vadim Bichutskiy]
-
+**Instructor:** Vadim Bichutskiy
 
 Tuesday | Thursday 
 --- | ---
