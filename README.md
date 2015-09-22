@@ -30,3 +30,7 @@ Tuesday | Thursday
 * [Beginner](code/00_python_beginner_workshop.py) and [intermediate](code/00_python_intermediate_workshop.py) workshop code: Useful for review and reference.
 * [Python 2.7x Reference Guide](https://github.com/vybstat/python-reference/blob/master/reference.py): Beginner-oriented guide that demonstrates a ton of Python concepts through short, well-commented examples.
 * [Python Tutor](http://pythontutor.com/): Allows you to visualize the execution of Python code.
+
+### Submission Forms
+* [Feedback form](bit.ly/1FrY6A1)
+* Homework and project submissions (TBA)
