@@ -32,5 +32,5 @@ Tuesday | Thursday
 * [Python Tutor](http://pythontutor.com/): Allows you to visualize the execution of Python code.
 
 ### Submission Forms
-* [Feedback form](bit.ly/1FrY6A1)
+* [Feedback form](http://bit.ly/1FrY6A1)
 * Homework and project submissions (TBA)
