@@ -50,3 +50,8 @@ Tuesday | Thursday
 * For some thoughts on what it's like to be a data scientist, read these short posts from [Win-Vector](http://www.win-vector.com/blog/2012/09/on-being-a-data-scientist/) and [Datascope Analytics](http://datascopeanalytics.com/what-we-think/2014/07/31/six-qualities-of-a-great-data-scientist).
 * Quora has a [data science topic FAQ](https://www.quora.com/Data-Science) with lots of interesting Q&A.
 * Keep up with local data-related events through the Data Community DC [event calendar](http://www.datacommunitydc.org/calendar) or [weekly newsletter](http://www.datacommunitydc.org/newsletter).
+* [Data Scince vs Statistics](http://bit.ly/1FrZX80)
+* [Doing Data Science at Twitter](http://bit.ly/1Fs08QC)
+* [15 Books every Data Scientist Should Read](http://bit.ly/1Fs0bvW)
+* [50+ Free Data Science Books](http://bit.ly/1Fs0kzr)
+* [FREE BOOK:](http://www-bcf.usc.edu/~gareth/ISL/) Introduction to Statistical Learning
