@@ -55,7 +55,7 @@ Tuesday | Thursday
 * [15 Books every Data Scientist Should Read](http://bit.ly/1Fs0bvW)
 * [50+ Free Data Science Books](http://bit.ly/1Fs0kzr)
 * [FREE BOOK:](http://www-bcf.usc.edu/~gareth/ISL/) Introduction to Statistical Learning
-* [Building Data Science Teams:](http://oreil.ly/1G1s6Oc)
+* [Building Data Science Teams](http://oreil.ly/1G1s6Oc)
 * [R for Everyone:](http://amzn.to/1MHKPpR) Great reference for R
-* [Doing Data Science:](http://amzn.to/1MHM1Jz)
+* [Doing Data Science](http://amzn.to/1MHM1Jz)
 * [Python for Data Analysis](http://amzn.to/1JomygU)
