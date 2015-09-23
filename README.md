@@ -59,4 +59,4 @@ Tuesday | Thursday
 * [R for Everyone:](http://amzn.to/1MHKPpR) Great reference for R
 * [Doing Data Science](http://amzn.to/1MHM1Jz)
 * [Python for Data Analysis](http://amzn.to/1JomygU)
-* [Getting Started with Data Science](http://http://treycausey.com/getting_started.html)
+* [Getting Started with Data Science](http://treycausey.com/getting_started.html)
