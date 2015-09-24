@@ -35,7 +35,7 @@ Tuesday | Thursday
 
 ### Submission Forms
 * [Feedback form](http://bit.ly/1FrY6A1)
-* Homework and project submissions (TBA)
+* [Homework and project submissions](http://goo.gl/forms/eqIf0lbH3n)
 
 -----
 
