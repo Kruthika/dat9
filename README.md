@@ -4,6 +4,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **Instructor:** Vadim Bichutskiy
 
+### [Course Project](project/README.md)
+
 ### Course Outline (tentative, subject to change)
 Tuesday | Thursday 
 --- | ---
