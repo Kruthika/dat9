@@ -62,3 +62,45 @@ Tuesday | Thursday
 * [Doing Data Science](http://amzn.to/1MHM1Jz)
 * [Python for Data Analysis](http://amzn.to/1JomygU)
 * [Getting Started with Data Science](http://treycausey.com/getting_started.html)
+
+-----
+
+### Class 2: Command Line and Version Control
+* Discuss Course Project
+* Git and GitHub ([slides](slides/02_git_github.pdf))
+* Command line exercise ([code](code/02_command_line.md))
+* Intermediate command line
+* Wrap up: Course schedule, office hours
+
+**Homework:**
+
+* Work through GA's friendly [command line tutorial](http://generalassembly.github.io/prework/command-line/#/) using Terminal (Linux/Mac) or Git Bash (Windows), and then browse through this [command line reference](code/02_command_line.md).
+* Watch videos 1 through 8 (21 minutes) of [Introduction to Git and GitHub](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD).
+
+Create a Markdown document that includes your answers to questions 1-3 below and the code you used to arrive at those answers. Add this file to a GitHub repo that you'll use for all of your coursework, and submit a link to your repo using the homework submission form:
+
+1. Using `chipotle.tsv` in the `data` subdirectory:
+    * Look at the head and the tail, and think for a minute about how the data is structured. What do you think each column means? What do you think each row means? Tell me! (If you're unsure, look at more of the file contents.)
+    * How many orders do there appear to be?
+    * How many lines are in the file?
+    * Which burrito is more popular, steak or chicken?
+    * Do chicken burritos more often have black beans or pinto beans?
+2. Count the number of occurrences of the word 'dictionary' (regardless of case) across all files in the DAT9 repo.
+3. **Optional:** Use the the command line to discover something "interesting" about the Chipotle data. The [advanced commands](code/02_command_line.md#Advanced-commands) may be helpful to you!
+
+* Install the [Anaconda distribution](http://continuum.io/downloads) of Python 2.7x.
+    * If you choose not to use Anaconda, here is a list of the [Python packages](other/python_packages.md) you will need to install during the course.
+* Skim through the [Python reference](http://bit.ly/1QBuv7P).
+
+**Git and Markdown Resources:**
+* [Pro Git](http://git-scm.com/book/en/v2) is an excellent book for learning Git. Read the first two chapters to gain a deeper understanding of version control and basic commands.
+* If you want to practice a lot of Git (and learn many more commands), [Git Immersion](http://gitimmersion.com/) looks promising.
+* If you want to understand how to contribute on GitHub, you first have to understand [forks and pull requests](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/).
+* [GitRef](http://gitref.org/) is my favorite reference guide for Git commands, and [Git quick reference for beginners](http://www.dataschool.io/git-quick-reference-for-beginners/) is a shorter guide with commands grouped by workflow.
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) provides a thorough set of Markdown examples with concise explanations. GitHub's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) is a simpler and more attractive guide, but is less comprehensive.
+
+**Command Line Resources:**
+* If you want to go much deeper into the command line, [Data Science at the Command Line](http://shop.oreilly.com/product/0636920032823.do) is a great book. The [companion website](http://datascienceatthecommandline.com/) provides installation instructions for a "data science toolbox" (a virtual machine with many more command line tools), as well as a long reference guide to popular command line tools.
+
+-----
+
