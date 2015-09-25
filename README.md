@@ -106,3 +106,4 @@ Create a Markdown document that includes your answers to questions 1-3 below and
 
 -----
 
+Class 3: Getting Data
