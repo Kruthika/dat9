@@ -105,5 +105,3 @@ Create a Markdown document that includes your answers to questions 1-3 below and
 * If you want to go much deeper into the command line, [Data Science at the Command Line](http://amzn.to/1gSjcvV) is a great book. The [companion website](http://datascienceatthecommandline.com/) provides installation instructions for a "data science toolbox" (a virtual machine with many more command line tools), as well as a long reference guide to popular command line tools.
 
 -----
-
-Class 3: Getting Data
